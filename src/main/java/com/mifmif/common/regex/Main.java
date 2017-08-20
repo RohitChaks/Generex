@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package regex;
+package com.mifmif.common.regex;
 
 import java.io.*;
 import regex.GenerexIterator;
